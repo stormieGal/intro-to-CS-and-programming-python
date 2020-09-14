@@ -1,0 +1,9 @@
+# Ignore all .zip files
+*.zip
+
+# Ignore instalation file
+/ps0/MIT6_0001F16_Getting_Start.pdf
+
+# Ignore test files
+/ps0/pkgtest.py
+
